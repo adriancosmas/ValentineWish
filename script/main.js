@@ -88,7 +88,7 @@ const animationTimeline = () => {
       0.05
     )
     .to(".fake-btn", 0.1, {
-      backgroundColor: "#8100D1",
+      backgroundColor: "#473472",
       borderRadius: '999px'
     })
     .to(
@@ -109,7 +109,7 @@ const animationTimeline = () => {
     .to(".idea-3 strong", 0.5, {
       scale: 1.2,
       x: 10,
-      backgroundColor: "#8100D1",
+      backgroundColor: "#473472",
       borderRadius: '999px',
       color: "#fff",
     })
